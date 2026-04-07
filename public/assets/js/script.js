@@ -1,15 +1,6 @@
 console.log('hello');
 
+document.cookie = "username=Pablo+1";
+document.cookie = "email=elpablo+1@gmail.com";
+document.cookie = "password=password";
 
-/** @info
- * A coller dans le input description pour la demo
- * */
-
-// <script>
-//
-// const p = document.querySelectorAll('p');
-//
-// for (const e of p) {
-//     e.style.color = 'red';
-// }
-// </script>
